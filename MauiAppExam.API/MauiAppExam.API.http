@@ -1,0 +1,6 @@
+@MauiAppExam.API_HostAddress = http://localhost:5008
+
+GET {{MauiAppExam.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
